@@ -1,21 +1,21 @@
 # backbonedemo
 
 ##目录
-> [前言](#前言)
+> [前言](##前言)
 > 
-> [SpringMVC 返回数据](#SpringMVC返回数据)
+> [SpringMVC 返回数据](##SpringMVC返回数据)
 > 
-> [Backbone基础](#Backbone基础)
+> [Backbone基础](##Backbone基础)
 > 
-> [RequireJS](#RequireJS)
+> [RequireJS](##RequireJS)
 > 
-> [重写Backbone的Ajax](#重写Backbone的Ajax)
+> [重写Backbone的Ajax](##重写Backbone的Ajax)
 > 
 >>[为什么要重写？](#为什么要重写？)
 >
 >>[怎么重写？](#怎么重写？)
 >
-> [其他问题](#其他问题)
+> [其他问题](##其他问题)
 
 ##前言
 这是本人做的一个关于 **backbone** 的demo,至于 backbone 是什么，这里不多说，简单来说就是一款前端mvc框架，除了backbone,还有很多mvc框架可供选择。可以参看我之前的一篇博客 [Backbone技术解析](http://vence.github.io/blog/2015/05/14/backbone-info/)
