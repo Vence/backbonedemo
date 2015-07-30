@@ -46,7 +46,8 @@
 
 ##重写Backbone的Ajax
 ###为什么要重写？
-因为 Backbone 的 `Model` 和 `Collection` 提供了很多直接与后台交互的方法，比如 `fetch` ， `save` , `create` ， `distory` 等等去实现增删改查
+因为 Backbone 的 `Model` 和 `Collection` 提供了很多直接与后台交互的方法，比如 `fetch` ， `save` , `create` ， `distory` 等等去实现增删改查 ;这种基本的交互方法是直接基于model操作的，如果我们的请求或返回中被包装过，就必须重写。
+
 
 ###怎么重写？
 - 就是在发送请求到后台之前，需要包装成我们自己的请求格式，比如我习惯将实体的请求参数封装进data里：
