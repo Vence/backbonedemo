@@ -3,13 +3,13 @@
 ##目录
 > [前言](#前言)
 > 
-> [SpringMVC 返回数据](#SpringMVC返回数据)
+> [SpringMVC 返回数据](#springmvc返回数据)
 > 
-> [Backbone基础](#Backbone基础)
+> [Backbone基础](#backbone基础)
 > 
-> [RequireJS](#RequireJS)
+> [RequireJS](#requireJS)
 > 
-> [重写Backbone的Ajax](#重写Backbone的Ajax)
+> [重写Backbone的Ajax](#重写backbone的ajax)
 > 
 >>[为什么要重写？](#为什么要重写？)
 >
