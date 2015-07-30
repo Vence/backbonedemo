@@ -7,7 +7,7 @@
 > 
 > [Backbone基础](#backbone基础)
 > 
-> [RequireJS](#requireJS)
+> [RequireJS](#requirejs)
 > 
 > [重写Backbone的Ajax](#重写backbone的ajax)
 > 
