@@ -60,4 +60,4 @@
 
 ##其他问题
 参看我的另外一篇博客
-[Backbone前端开发流程及规范](http://vence.github.io/blog/2015/05/24/backbone-coding-info/)
+[Backbone前端开发流程及规范](http://vence.github.io/2015/05/24/backbone-coding-info/)
