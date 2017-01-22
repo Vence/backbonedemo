@@ -18,7 +18,7 @@
 > [其他问题](#其他问题)
 
 ##前言
-这是本人做的一个关于 **backbone** 的demo,至于 backbone 是什么，这里不多说，简单来说就是一款前端mvc框架，除了backbone,还有很多mvc框架可供选择。可以参看我之前的一篇博客 [Backbone技术解析](http://vence.github.io/blog/2015/05/14/backbone-info/)
+这是本人做的一个关于 **backbone** 的demo,至于 backbone 是什么，这里不多说，简单来说就是一款前端mvc框架，除了backbone,还有很多mvc框架可供选择。可以参看我之前的一篇博客 [Backbone技术解析](http://vence.github.io/2015/05/14/backbone-info/)
 
 更多关于Backbone的知识点请查看[API中文文档](http://www.css88.com/doc/backbone/#Collection)
 
